@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumitChourasia", "SumitChourasia\SumitChourasia.csproj", "{1C8EEA61-09B9-4572-9D8F-EB3C2DAF6DFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumitChourasia.Tests", "SumitChourasia.Tests\SumitChourasia.Tests.csproj", "{B67E24F7-B5EE-45FE-B84C-5FD08A21BE5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C8EEA61-09B9-4572-9D8F-EB3C2DAF6DFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C8EEA61-09B9-4572-9D8F-EB3C2DAF6DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C8EEA61-09B9-4572-9D8F-EB3C2DAF6DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C8EEA61-09B9-4572-9D8F-EB3C2DAF6DFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B67E24F7-B5EE-45FE-B84C-5FD08A21BE5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B67E24F7-B5EE-45FE-B84C-5FD08A21BE5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B67E24F7-B5EE-45FE-B84C-5FD08A21BE5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B67E24F7-B5EE-45FE-B84C-5FD08A21BE5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
